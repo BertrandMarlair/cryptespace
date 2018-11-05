@@ -1,0 +1,5977 @@
+{
+  "nodes": [
+    {
+      "id": "251",
+      "label": "Ruth J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "264",
+      "label": "Nico H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "label": "Philippe V. I.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "196",
+          "label": "Digityser",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "label": "Finoryx",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Finoryx is the leader in Blockchain solutions applied to Capital Markets, and is active at the crossroads of business vision and technology revolution.",
+        "web link": "http://www.finoryx.com/",
+        "location": "Brussels"
+      },
+      "connections": [
+        {
+          "id": "152",
+          "label": "Olivier R.",
+          "group": "Individual"
+        },
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "205",
+      "label": "Mathieu J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "206",
+          "label": "Bit Engineering",
+          "group": "Education & Books"
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "label": "CMS",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "web link": "https://cms.law/en/BEL/"
+      },
+      "connections": [
+        {
+          "id": "185",
+          "label": "Benoît V.",
+          "group": "Individual"
+        },
+        {
+          "id": "184",
+          "label": "Didier G.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "label": "Corporify",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Corporify offers a highly secure cloud based platform to simplify the legal management of companies.  Dealing with legal compliance, corporate governance and risk management is a complex, time consuming and expensive matter. Therefore, we offer lean processes and automation in legal asset management to help your business saving time and money.",
+        "web link": "https://www.corporify.com/",
+        "contact": "info@corporify.com",
+        "location": "Buggenhout"
+      },
+      "connections": [
+        {
+          "id": "201",
+          "label": "Maarten P.",
+          "group": "Individual"
+        },
+        {
+          "id": "202",
+          "label": "Andy K.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "label": "Cegeka",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://www.cegeka.com/be/en"
+      },
+      "connections": [
+        {
+          "id": "222",
+          "label": "Tim J.",
+          "group": "Individual"
+        },
+        {
+          "id": "164",
+          "label": "Dirk N.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "label": "Geraud M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "4",
+          "label": "Blockchain Association of Belgium",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "label": "Thierry M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "39",
+          "label": "EY",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "label": "TheLedger",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "We implement and build blockchain applications for enterprises and governments",
+        "web link": "https://theledger.be/",
+        "contact": "hello@theledger.be",
+        "location": "Kontich"
+      },
+      "connections": [
+        {
+          "id": "116",
+          "label": "Jonas S.",
+          "group": "Individual"
+        },
+        {
+          "id": "22",
+          "label": "Wim T.",
+          "group": "Individual"
+        },
+        {
+          "id": "147",
+          "label": "Karsten F.",
+          "group": "Individual"
+        },
+        {
+          "id": "226",
+          "label": "Fédération Wallonie-Bruxelles",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "144",
+          "label": "Jeroen D. P.",
+          "group": "Individual"
+        },
+        {
+          "id": "143",
+          "label": "Katleen D.",
+          "group": "Individual"
+        },
+        {
+          "id": "133",
+          "label": "Vlaamse Overheid",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "23",
+          "label": "Michiel M.",
+          "group": "Individual"
+        },
+        {
+          "id": "146",
+          "label": "Filip F.",
+          "group": "Individual"
+        },
+        {
+          "id": "148",
+          "label": "Jo V.",
+          "group": "Individual"
+        },
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "211",
+          "label": "Andries V.",
+          "group": "Individual"
+        },
+        {
+          "id": "45",
+          "label": "Thomas M.",
+          "group": "Individual"
+        },
+        {
+          "id": "145",
+          "label": "Kevin L.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "label": "David L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "label": "Katleen D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "label": "Steave N.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "label": "Hey",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Making the internet better, together",
+        "web link": "https://get-hey.com/",
+        "contact": "info@get-hey.com",
+        "location": "La Hulpe"
+      },
+      "connections": [
+        {
+          "id": "49",
+          "label": "Marie L.",
+          "group": "Individual"
+        },
+        {
+          "id": "50",
+          "label": "Alexander S.",
+          "group": "Individual"
+        },
+        {
+          "id": "51",
+          "label": "Robin P.",
+          "group": "Individual"
+        },
+        {
+          "id": "15",
+          "label": "Marc J.",
+          "group": "Individual"
+        },
+        {
+          "id": "10",
+          "label": "Thomas V.",
+          "group": "Individual"
+        },
+        {
+          "id": "52",
+          "label": "David C.",
+          "group": "Individual"
+        },
+        {
+          "id": "48",
+          "label": "Pierre-Alexandre K.",
+          "group": "Individual"
+        },
+        {
+          "id": "47",
+          "label": "Nabil K.",
+          "group": "Individual"
+        },
+        {
+          "id": "53",
+          "label": "Thomas L.",
+          "group": "Individual"
+        },
+        {
+          "id": "174",
+          "label": "Luara S.",
+          "group": "Individual"
+        },
+        {
+          "id": "173",
+          "label": "Emily B.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "label": "Michiel M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "182",
+          "label": "CryptoBeleggers",
+          "group": "Community"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "label": "Renée S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "156",
+          "label": "FSMA",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "238",
+      "label": "Destiny A.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "204",
+      "label": "Steve D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "203",
+          "label": "Block0",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "241",
+      "label": "Ivan P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "label": "Maxim G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "39",
+          "label": "EY",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "263",
+      "label": "Nico P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "label": "Jean W.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "250",
+      "label": "Mark P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "label": "Jürgen O.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "120",
+          "label": "Juru",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "label": "Belgian Bitcoin Association",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "http://bitcoinassociation.be/"
+      },
+      "connections": [
+        {
+          "id": "90",
+          "label": "Thomas S.",
+          "group": "Individual"
+        },
+        {
+          "id": "89",
+          "label": "Jean W.",
+          "group": "Individual"
+        },
+        {
+          "id": "102",
+          "label": "Renaud V.",
+          "group": "Individual"
+        },
+        {
+          "id": "101",
+          "label": "David L.",
+          "group": "Individual"
+        },
+        {
+          "id": "95",
+          "label": "Chris D.",
+          "group": "Individual"
+        },
+        {
+          "id": "100",
+          "label": "David B.",
+          "group": "Individual"
+        },
+        {
+          "id": "99",
+          "label": "Arnaud K.",
+          "group": "Individual"
+        },
+        {
+          "id": "96",
+          "label": "Arne B.",
+          "group": "Individual"
+        },
+        {
+          "id": "97",
+          "label": "Jérémie D.",
+          "group": "Individual"
+        },
+        {
+          "id": "98",
+          "label": "Filip R.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "label": "Lan F.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "label": "Thomas V.",
+      "group": "Individual",
+      "attributes": {
+        "web link": "https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/"
+      },
+      "connections": [
+        {
+          "id": "0",
+          "label": "Cryptizens.io",
+          "group": "Pure play company"
+        },
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "label": "Igor R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "label": "Florence N.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "label": "Blockchain Brussels Meetup",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://www.meetup.com/fr-FR/Blockchain-Brussels/"
+      },
+      "connections": [
+        {
+          "id": "97",
+          "label": "Jérémie D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "label": "Olivier S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "167",
+          "label": "OceanLab",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "label": "Dimitri D. J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "136",
+          "label": "BigchainDB",
+          "group": "Non-BE pure play company"
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "label": "CryptoBeleggers",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://cryptobeleggers.com/"
+      },
+      "connections": [
+        {
+          "id": "23",
+          "label": "Michiel M.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "label": "Jan V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "120",
+          "label": "Juru",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "label": "Jonathan D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "254",
+      "label": "Sylvester J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "label": "Brecht D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "118",
+          "label": "Trase",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "242",
+      "label": "Luke Y.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "label": "Benjamin X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "113",
+          "label": "Blockchain/Ethereum Brussels Meetup",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "ChainSkills",
+      "group": "Education & Books",
+      "attributes": {
+        "web link": "http://chainskills.com/fr/"
+      },
+      "connections": [
+        {
+          "id": "25",
+          "label": "Sebastien A.",
+          "group": "Individual"
+        },
+        {
+          "id": "26",
+          "label": "Said E.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "label": "Veronica M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "label": "Stad Antwerpen",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "https://www.antwerpen.be"
+      },
+      "connections": [
+        {
+          "id": "120",
+          "label": "Juru",
+          "group": "Pure play company"
+        },
+        {
+          "id": "129",
+          "label": "Kunstmaan",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "label": "Jonathan J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "label": "Olivier R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "85",
+          "label": "Finoryx",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "label": "Jonas S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "261",
+      "label": "Binderz.io",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Instant and secure Proof of Existence for any document",
+        "web link": "https://www.binderz.io/",
+        "location": "Brussels"
+      },
+      "connections": [
+        {
+          "id": "0",
+          "label": "Cryptizens.io",
+          "group": "Pure play company"
+        },
+        {
+          "id": "262",
+          "label": "Réginald W.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "label": "Renat X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "109",
+          "label": "Hyperledger Brussels Meetup",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "label": "Benoît F.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "157",
+          "label": "Laga",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "label": "Benjamin V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "93",
+          "label": "KULeuven",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "label": "Giorgi R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "label": "DS Avocats",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "web link": "http://www.ds-avocats.com/"
+      },
+      "connections": [
+        {
+          "id": "175",
+          "label": "Thibault V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "249",
+      "label": "Hamza O.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "label": "Wim T.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "label": "Blockchain Belgium",
+      "group": "Community",
+      "attributes": {
+        "web link": "http://blockchainbelgium.be/"
+      },
+      "connections": [
+        {
+          "id": "144",
+          "label": "Jeroen D. P.",
+          "group": "Individual"
+        },
+        {
+          "id": "143",
+          "label": "Katleen D.",
+          "group": "Individual"
+        },
+        {
+          "id": "46",
+          "label": "Claudiu M.",
+          "group": "Individual"
+        },
+        {
+          "id": "23",
+          "label": "Michiel M.",
+          "group": "Individual"
+        },
+        {
+          "id": "145",
+          "label": "Kevin L.",
+          "group": "Individual"
+        },
+        {
+          "id": "116",
+          "label": "Jonas S.",
+          "group": "Individual"
+        },
+        {
+          "id": "146",
+          "label": "Filip F.",
+          "group": "Individual"
+        },
+        {
+          "id": "22",
+          "label": "Wim T.",
+          "group": "Individual"
+        },
+        {
+          "id": "147",
+          "label": "Karsten F.",
+          "group": "Individual"
+        },
+        {
+          "id": "148",
+          "label": "Jo V.",
+          "group": "Individual"
+        },
+        {
+          "id": "45",
+          "label": "Thomas M.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "label": "Fintech Belgium",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "https://fintechbelgium.be/"
+      },
+      "connections": []
+    },
+    {
+      "id": "53",
+      "label": "Thomas L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "label": "Digityser",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://digityser.org/"
+      },
+      "connections": [
+        {
+          "id": "34",
+          "label": "CryptoCafé",
+          "group": "Community"
+        },
+        {
+          "id": "221",
+          "label": "Antoine L.",
+          "group": "Individual"
+        },
+        {
+          "id": "197",
+          "label": "Philippe V. I.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "label": "Damien T.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "86",
+          "label": "Orillia",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "label": "Derek R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "4",
+          "label": "Blockchain Association of Belgium",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "label": "Pieter A.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "80",
+          "label": "Investereum",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "label": "EY",
+      "group": "Company",
+      "attributes": {
+        "web link": "http://www.ey.com/be/en/home"
+      },
+      "connections": [
+        {
+          "id": "159",
+          "label": "Thierry M.",
+          "group": "Individual"
+        },
+        {
+          "id": "160",
+          "label": "Joris S.",
+          "group": "Individual"
+        },
+        {
+          "id": "44",
+          "label": "Maxim G.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "label": "Laurent G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "157",
+          "label": "Laga",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "label": "RISE Technologies",
+      "group": "Non-BE pure play company",
+      "attributes": {
+        "web link": "https://www.rise-technologies.com/"
+      },
+      "connections": [
+        {
+          "id": "97",
+          "label": "Jérémie D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "label": "Werner V. L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "157",
+          "label": "Laga",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "label": "Thomas S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "label": "Dimitri V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "120",
+          "label": "Juru",
+          "group": "Pure play company"
+        },
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "label": "Luara S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "253",
+      "label": "Stijn J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Hive Blockchain Society",
+      "group": "Community",
+      "attributes": {
+        "web link": "http://hive.brussels/"
+      },
+      "connections": [
+        {
+          "id": "19",
+          "label": "Quentin D.",
+          "group": "Individual"
+        },
+        {
+          "id": "16",
+          "label": "Cassandre V.",
+          "group": "Individual"
+        },
+        {
+          "id": "18",
+          "label": "Guillaume V.",
+          "group": "Individual"
+        },
+        {
+          "id": "17",
+          "label": "Aymerick T.",
+          "group": "Individual"
+        },
+        {
+          "id": "14",
+          "label": "Jean-Luc V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "label": "Astrid J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "225",
+      "label": "Frederik O.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "153",
+          "label": "T-mining",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "label": "Kevin D. P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "221",
+      "label": "Antoine L.",
+      "group": "Individual",
+      "attributes": {
+        "web link": "https://www.linkedin.com/in/lambertantoine/"
+      },
+      "connections": [
+        {
+          "id": "196",
+          "label": "Digityser",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "label": "Arnaud L. H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "109",
+          "label": "Hyperledger Brussels Meetup",
+          "group": "Community"
+        },
+        {
+          "id": "161",
+          "label": "IBM",
+          "group": "Company"
+        },
+        {
+          "id": "162",
+          "label": "Hyperledger",
+          "group": "Open-source project"
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "label": "Philippe L.",
+      "group": "Individual",
+      "attributes": {
+        "web link": "https://www.linkedin.com/in/philippe-laloux-5b613ab9/"
+      },
+      "connections": [
+        {
+          "id": "210",
+          "label": "Bitcoin Liège",
+          "group": "Community"
+        },
+        {
+          "id": "169",
+          "label": "BeCrypto",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "label": "Roeland G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "107",
+          "label": "Blockchain Vlaanderen Meetup",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "232",
+      "label": "Safe Haven",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "In order to protect your digital assets, we at Safe Haven give you the opportunity to do so without locking yourself out. Seeds / private-keys / passphrases can be shared amongst stakeholders or children in a transparent and secure way.",
+        "web link": "https://safehaven.io",
+        "contact": "info@safehaven.io",
+        "location": "Brussels / Singapore"
+      },
+      "connections": [
+        {
+          "id": "243",
+          "label": "Hadrian M.",
+          "group": "Individual"
+        },
+        {
+          "id": "238",
+          "label": "Destiny A.",
+          "group": "Individual"
+        },
+        {
+          "id": "241",
+          "label": "Ivan P.",
+          "group": "Individual"
+        },
+        {
+          "id": "239",
+          "label": "Dieter S.",
+          "group": "Individual"
+        },
+        {
+          "id": "234",
+          "label": "Logino D.",
+          "group": "Individual"
+        },
+        {
+          "id": "240",
+          "label": "Danielle A.",
+          "group": "Individual"
+        },
+        {
+          "id": "237",
+          "label": "Alain D.",
+          "group": "Individual"
+        },
+        {
+          "id": "233",
+          "label": "Jürgen S.",
+          "group": "Individual"
+        },
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        },
+        {
+          "id": "242",
+          "label": "Luke Y.",
+          "group": "Individual"
+        },
+        {
+          "id": "235",
+          "label": "Andy D.",
+          "group": "Individual"
+        },
+        {
+          "id": "236",
+          "label": "Andrew K.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "label": "Toon C.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "38",
+          "label": "Opus Labs (Delta)",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "236",
+      "label": "Andrew K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "label": "Jérémie D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "103",
+          "label": "Blockchain Brussels Meetup",
+          "group": "Community"
+        },
+        {
+          "id": "137",
+          "label": "RISE Technologies",
+          "group": "Non-BE pure play company"
+        },
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "label": "Filip M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "38",
+          "label": "Opus Labs (Delta)",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "label": "Gianni B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "80",
+          "label": "Investereum",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "label": "Hyperledger Brussels Meetup",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://www.meetup.com/fr-FR/Hyperledger-Brussels"
+      },
+      "connections": [
+        {
+          "id": "110",
+          "label": "Arnaud L. H.",
+          "group": "Individual"
+        },
+        {
+          "id": "112",
+          "label": "Renat X.",
+          "group": "Individual"
+        },
+        {
+          "id": "111",
+          "label": "David S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "label": "Juru",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Your Digital Identity - Own it - Manage it - Control it",
+        "web link": "https://juru.io/",
+        "contact": "info@juru.io",
+        "location": "Niel"
+      },
+      "connections": [
+        {
+          "id": "106",
+          "label": "Jo V.",
+          "group": "Individual"
+        },
+        {
+          "id": "123",
+          "label": "Jürgen O.",
+          "group": "Individual"
+        },
+        {
+          "id": "121",
+          "label": "Dimitri V.",
+          "group": "Individual"
+        },
+        {
+          "id": "41",
+          "label": "Stad Antwerpen",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "122",
+          "label": "Jan V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "label": "Tom B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "label": "Stampify",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "We want to create a frictionless business world and it starts with governance",
+        "web link": "https://stampify.me/",
+        "contact": "info@stampify.me"
+      },
+      "connections": [
+        {
+          "id": "28",
+          "label": "Olivier B.",
+          "group": "Individual"
+        },
+        {
+          "id": "33",
+          "label": "Jérémie M.",
+          "group": "Individual"
+        },
+        {
+          "id": "31",
+          "label": "Gilles C.",
+          "group": "Individual"
+        },
+        {
+          "id": "203",
+          "label": "Block0",
+          "group": "Pure play company"
+        },
+        {
+          "id": "29",
+          "label": "Bernard L.",
+          "group": "Individual"
+        },
+        {
+          "id": "32",
+          "label": "Florence N.",
+          "group": "Individual"
+        },
+        {
+          "id": "30",
+          "label": "Steve D.",
+          "group": "Individual"
+        },
+        {
+          "id": "27",
+          "label": "Laurent K.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "label": "Kunstmaan",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://labs.kunstmaan.be/"
+      },
+      "connections": [
+        {
+          "id": "132",
+          "label": "Daan P.",
+          "group": "Individual"
+        },
+        {
+          "id": "41",
+          "label": "Stad Antwerpen",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "24",
+          "label": "Accenture",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "label": "Bram M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "93",
+          "label": "KULeuven",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "265",
+      "label": "Thomas M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "label": "Trase",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Every day we build our expertise with this new technology, we embrace the research that needs to be done and we share the knowledge that we gather. Trase is your partner that grows with you, a trustworthy innovator.",
+        "web link": "http://www.trase.be/en/",
+        "contact": "info@trase.be",
+        "location": "Herentals"
+      },
+      "connections": [
+        {
+          "id": "124",
+          "label": "Brecht D.",
+          "group": "Individual"
+        },
+        {
+          "id": "126",
+          "label": "Kenny V.",
+          "group": "Individual"
+        },
+        {
+          "id": "125",
+          "label": "Jens M.",
+          "group": "Individual"
+        },
+        {
+          "id": "119",
+          "label": "Hadrien V. D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "label": "Kamil M.",
+      "group": "Individual",
+      "attributes": {
+        "web link": "https://www.linkedin.com/in/kamil-maslana-23573227/"
+      },
+      "connections": [
+        {
+          "id": "169",
+          "label": "BeCrypto",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "245",
+      "label": "Pierre-Henri M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "244",
+          "label": "Unimining",
+          "group": "Open-source project"
+        }
+      ]
+    },
+    {
+      "id": "213",
+      "label": "Joris H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "212",
+          "label": "Pàu",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "label": "Kenny V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "118",
+          "label": "Trase",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "label": "Nicolas X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "113",
+          "label": "Blockchain/Ethereum Brussels Meetup",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "label": "Renaud V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "label": "Roland Berger",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://www.rolandberger.com/en/"
+      },
+      "connections": [
+        {
+          "id": "139",
+          "label": "Pierre B.",
+          "group": "Individual"
+        },
+        {
+          "id": "138",
+          "label": "Stephan J.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "label": "Sebastien A.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "6",
+          "label": "ChainSkills",
+          "group": "Education & Books"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "label": "Roderik v.d.V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "label": "Emily B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "label": "Said E.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "6",
+          "label": "ChainSkills",
+          "group": "Education & Books"
+        }
+      ]
+    },
+    {
+      "id": "202",
+      "label": "Andy K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "200",
+          "label": "Corporify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "203",
+      "label": "Block0",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Think outside the block.  Blockchain solutions for ICO • Digital Currency Smart Contract • Tokenized Asset • Marketplace Self-Sovereign Identity • Decentralized Governance",
+        "web link": "http://www.block0.io/",
+        "contact": "info@block0.io",
+        "location": "Walhain"
+      },
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        },
+        {
+          "id": "204",
+          "label": "Steve D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "label": "Accenture",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://www.accenture.com/be-en"
+      },
+      "connections": [
+        {
+          "id": "17",
+          "label": "Aymerick T.",
+          "group": "Individual"
+        },
+        {
+          "id": "129",
+          "label": "Kunstmaan",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "label": "Alexander V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "label": "Alexander S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "label": "Daan P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "129",
+          "label": "Kunstmaan",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "KeyRock",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Building an efficient and accessible crypto market",
+        "web link": "https://keyrock.eu/",
+        "contact": "info@keyrock.eu",
+        "location": "Brussels"
+      },
+      "connections": [
+        {
+          "id": "56",
+          "label": "Steave N.",
+          "group": "Individual"
+        },
+        {
+          "id": "60",
+          "label": "Filippo P.",
+          "group": "Individual"
+        },
+        {
+          "id": "55",
+          "label": "Nicolas V.",
+          "group": "Individual"
+        },
+        {
+          "id": "11",
+          "label": "Kevin D. P.",
+          "group": "Individual"
+        },
+        {
+          "id": "106",
+          "label": "Jo V.",
+          "group": "Individual"
+        },
+        {
+          "id": "54",
+          "label": "Juan D. M.",
+          "group": "Individual"
+        },
+        {
+          "id": "57",
+          "label": "Jennifer G.",
+          "group": "Individual"
+        },
+        {
+          "id": "121",
+          "label": "Dimitri V.",
+          "group": "Individual"
+        },
+        {
+          "id": "61",
+          "label": "Marlon M. V.",
+          "group": "Individual"
+        },
+        {
+          "id": "20",
+          "label": "Jeremy D. G.",
+          "group": "Individual"
+        },
+        {
+          "id": "58",
+          "label": "Jonathan D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "label": "Filippo P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "label": "Kurt C.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "130",
+          "label": "Howest",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "label": "Laga",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "web link": "https://www.laga.be/"
+      },
+      "connections": [
+        {
+          "id": "179",
+          "label": "Werner V. L.",
+          "group": "Individual"
+        },
+        {
+          "id": "158",
+          "label": "Philippe H.",
+          "group": "Individual"
+        },
+        {
+          "id": "168",
+          "label": "Benoît F.",
+          "group": "Individual"
+        },
+        {
+          "id": "180",
+          "label": "Laurent G.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "246",
+      "label": "Ammbr",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Connecting the world's 4 billion poorly connected people Blending wireless mesh networks, Blockchain, and Self-Sovereign Digital Identity",
+        "web link": "http://www.ammbrtech.com/",
+        "contact": "info@ammbrtech.com",
+        "location": "La Hulpe"
+      },
+      "connections": [
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "label": "Robin P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "229",
+      "label": "B-Hive",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "https://b-hive.eu"
+      },
+      "connections": [
+        {
+          "id": "230",
+          "label": "Dave R.",
+          "group": "Individual"
+        },
+        {
+          "id": "247",
+          "label": "MadisonUnderwood",
+          "group": "Pure play company"
+        },
+        {
+          "id": "94",
+          "label": "IntellectEU",
+          "group": "Pure play company"
+        },
+        {
+          "id": "85",
+          "label": "Finoryx",
+          "group": "Pure play company"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        },
+        {
+          "id": "246",
+          "label": "Ammbr",
+          "group": "Pure play company"
+        },
+        {
+          "id": "86",
+          "label": "Orillia",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "262",
+      "label": "Réginald W.",
+      "group": "Individual",
+      "attributes": {
+        "one-liner description": ""
+      },
+      "connections": [
+        {
+          "id": "261",
+          "label": "Binderz.io",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "label": "Juan D. M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "217",
+      "label": "Tim D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "DatabrokerDAO",
+      "group": "Pure play company",
+      "attributes": {
+        "web link": "https://databrokerdao.com/",
+        "location": "Antwerp"
+      },
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        },
+        {
+          "id": "178",
+          "label": "White & Case LLP",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "label": "Bart P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "93",
+          "label": "KULeuven",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "247",
+      "label": "MadisonUnderwood",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "ICT Solution provider for blockchain solutions",
+        "web link": "https://madisonunderwood.com/",
+        "contact": "sales@madisonunderw00d.com",
+        "location": "Antwerp"
+      },
+      "connections": [
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "label": "Hadrien V. D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "118",
+          "label": "Trase",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "201",
+      "label": "Maarten P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "200",
+          "label": "Corporify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "219",
+      "label": "Quinten S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "256",
+      "label": "Bastien X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "255",
+          "label": "LiskPro",
+          "group": "Non-BE pure play company"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "label": "Marlon M. V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "label": "T-mining",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "T-mining improves efficiency in logistics and transport by better data sharing and secure title transfer, using blockchain technology.",
+        "web link": "http://www.t-mining.be",
+        "contact": "info@t-mining.be",
+        "location": "Antwerp"
+      },
+      "connections": [
+        {
+          "id": "155",
+          "label": "Nico W.",
+          "group": "Individual"
+        },
+        {
+          "id": "154",
+          "label": "Pascal V.",
+          "group": "Individual"
+        },
+        {
+          "id": "224",
+          "label": "Christiaan S.",
+          "group": "Individual"
+        },
+        {
+          "id": "225",
+          "label": "Frederik O.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "label": "Lauwers & Seutin",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "web link": "https://www.lauwers-seutin.be"
+      },
+      "connections": [
+        {
+          "id": "151",
+          "label": "Thierry L.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "224",
+      "label": "Christiaan S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "153",
+          "label": "T-mining",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "239",
+      "label": "Dieter S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "label": "Ricardo X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "34",
+          "label": "CryptoCafé",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "267",
+      "label": "Steven V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "266",
+          "label": "VCTS",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "label": "Laurent K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "label": "Willem V.d.W.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "178",
+          "label": "White & Case LLP",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "label": "Lorenz B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "38",
+          "label": "Opus Labs (Delta)",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "label": "Rutger B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "label": "Dylan D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "9",
+          "label": "Cryptominded",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "label": "Frank G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "label": "Jean-Jacques Q.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "40",
+          "label": "Université Catholique de Louvain",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "216",
+      "label": "Gerbert V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "208",
+      "label": "Anis H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": []
+    },
+    {
+      "id": "9",
+      "label": "Cryptominded",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://cryptominded.com/"
+      },
+      "connections": [
+        {
+          "id": "117",
+          "label": "Dylan D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "label": "Hyperledger",
+      "group": "Open-source project",
+      "attributes": {
+        "web link": "https://www.hyperledger.org/"
+      },
+      "connections": [
+        {
+          "id": "161",
+          "label": "IBM",
+          "group": "Company"
+        },
+        {
+          "id": "110",
+          "label": "Arnaud L. H.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "label": "Jeremy D. G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "label": "Cryptosphere.be",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Building bridges between blockchain and people",
+        "web link": "http://cryptosphere.be/",
+        "location": "Brussels"
+      },
+      "connections": []
+    },
+    {
+      "id": "15",
+      "label": "Marc J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "230",
+      "label": "Dave R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "Bitcoin, the Blockchain and Beyond",
+      "group": "Education & Books",
+      "attributes": {
+        "web link": "https://www.bitcoinblockchainbook.com/"
+      },
+      "connections": [
+        {
+          "id": "14",
+          "label": "Jean-Luc V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "label": "Arne B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "label": "Illia P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "label": "Orillia",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "We have the first network of Bitcoin ATM machines in Belgium. Grown from enthousiasts to experts, we provide services for professionals in need for support with Blockchain technology.",
+        "web link": "https://www.orillia.be/",
+        "contact": "info@orillia.be",
+        "location": "Laarne"
+      },
+      "connections": [
+        {
+          "id": "106",
+          "label": "Jo V.",
+          "group": "Individual"
+        },
+        {
+          "id": "104",
+          "label": "Ruben D.",
+          "group": "Individual"
+        },
+        {
+          "id": "105",
+          "label": "Damien T.",
+          "group": "Individual"
+        },
+        {
+          "id": "98",
+          "label": "Filip R.",
+          "group": "Individual"
+        },
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "label": "Marie L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "label": "Nicolas V. H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "38",
+          "label": "Opus Labs (Delta)",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "label": "Bit Engineering",
+      "group": "Education & Books",
+      "attributes": {
+        "one-liner description": "Educate citizens, medias, politics, businesses & education about the use of Bitcoin Technology"
+      },
+      "connections": [
+        {
+          "id": "205",
+          "label": "Mathieu J.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "label": "Jüri L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "240",
+      "label": "Danielle A.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "0",
+      "label": "Cryptizens.io",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "A Blockchain development powerhouse",
+        "web link": "https://cryptizens.io/",
+        "contact": "hello@cryptizens.io",
+        "location": "Brussels"
+      },
+      "connections": [
+        {
+          "id": "10",
+          "label": "Thomas V.",
+          "group": "Individual"
+        },
+        {
+          "id": "261",
+          "label": "Binderz.io",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "label": "Nicolas V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "label": "Stephan J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "140",
+          "label": "Roland Berger",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "label": "Jérémie M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "label": "Silke V.d.B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "label": "Sofitto",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Sofitto seeks a fusion of Chain Block technology with conventional credit card products by developing the 'Sofitto card. The Sofitto card provides an independent store of value directly on the map, making the traditional card and payment system is disrupted. With only marginal infrastructure costs and transaction costs, the new credit card will enter the barrier to reduce banking services, while reducing maintenance costs that apply to conventional financial networks.",
+        "web link": "https://sofitto.com/",
+        "contact": "info@sofitto.com",
+        "location": "Leuven"
+      },
+      "connections": [
+        {
+          "id": "192",
+          "label": "Illia P.",
+          "group": "Individual"
+        },
+        {
+          "id": "189",
+          "label": "Igor R.",
+          "group": "Individual"
+        },
+        {
+          "id": "193",
+          "label": "Giorgi R.",
+          "group": "Individual"
+        },
+        {
+          "id": "191",
+          "label": "Sofie V. W.",
+          "group": "Individual"
+        },
+        {
+          "id": "195",
+          "label": "Rain L.",
+          "group": "Individual"
+        },
+        {
+          "id": "190",
+          "label": "Lan F.",
+          "group": "Individual"
+        },
+        {
+          "id": "194",
+          "label": "Jüri L.",
+          "group": "Individual"
+        },
+        {
+          "id": "187",
+          "label": "Alexander V.",
+          "group": "Individual"
+        },
+        {
+          "id": "188",
+          "label": "Nikita S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "label": "Investereum",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "We are building the best Blockchain and cryptocurrency knowledge platform",
+        "web link": "https://www.investereum.com/about-us/",
+        "location": "Mortsel"
+      },
+      "connections": [
+        {
+          "id": "83",
+          "label": "Pieter A.",
+          "group": "Individual"
+        },
+        {
+          "id": "82",
+          "label": "Andrew T.",
+          "group": "Individual"
+        },
+        {
+          "id": "81",
+          "label": "Gianni B.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "label": "Deloitte",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://www2.deloitte.com/be/en.html"
+      },
+      "connections": [
+        {
+          "id": "14",
+          "label": "Jean-Luc V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "label": "Gilles C.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "label": "Trends",
+      "group": "Media outlet",
+      "attributes": {
+        "web link": "http://trends.levif.be/"
+      },
+      "connections": [
+        {
+          "id": "142",
+          "label": "Gilles Q.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "label": "Charles d. B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "257",
+      "label": "Benjamin X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "255",
+          "label": "LiskPro",
+          "group": "Non-BE pure play company"
+        }
+      ]
+    },
+    {
+      "id": "258",
+      "label": "Baudouin X.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "255",
+          "label": "LiskPro",
+          "group": "Non-BE pure play company"
+        }
+      ]
+    },
+    {
+      "id": "269",
+      "label": "Nathan T.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "266",
+          "label": "VCTS",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "266",
+      "label": "VCTS",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "one-liner description": "VCTS is boutique consulting firm with a focus on Business / Marketing & Technology",
+        "web link": "https://www.vcts.be/",
+        "contact": "support@ vcts.be",
+        "location": "Brugge"
+      },
+      "connections": [
+        {
+          "id": "267",
+          "label": "Steven V.",
+          "group": "Individual"
+        },
+        {
+          "id": "269",
+          "label": "Nathan T.",
+          "group": "Individual"
+        },
+        {
+          "id": "268",
+          "label": "Tom D.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "label": "Kevin L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "label": "Ruben D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "86",
+          "label": "Orillia",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "label": "Steve M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "label": "David S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "109",
+          "label": "Hyperledger Brussels Meetup",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "label": "Sofie V. W.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "label": "Guillaume V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "5",
+          "label": "Hive Blockchain Society",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "label": "Blockchain Vlaanderen Meetup",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://www.meetup.com/fr-FR/blockchain-vlaanderen/"
+      },
+      "connections": [
+        {
+          "id": "108",
+          "label": "Roeland G.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "label": "Filip R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "86",
+          "label": "Orillia",
+          "group": "Pure play company"
+        },
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "label": "Thierry L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "150",
+          "label": "Lauwers & Seutin",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "260",
+      "label": "Pieter C.",
+      "group": "Individual",
+      "attributes": {
+        "one-liner description": "",
+        "contact": ""
+      },
+      "connections": [
+        {
+          "id": "259",
+          "label": "Cresco Law",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "label": "Yves M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "93",
+          "label": "KULeuven",
+          "group": "University"
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "label": "Davy R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "label": "Stephan P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "198",
+          "label": "NR Mine",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "233",
+      "label": "Jürgen S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "209",
+      "label": "Fujitsu Blockchain Innovation Center",
+      "group": "Company",
+      "attributes": {},
+      "connections": []
+    },
+    {
+      "id": "59",
+      "label": "Matthew V. N.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "label": "Joris S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "39",
+          "label": "EY",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "268",
+      "label": "Tom D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "266",
+          "label": "VCTS",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "label": "Anthony S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "4",
+          "label": "Blockchain Association of Belgium",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "label": "Jean-Luc V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "79",
+          "label": "Deloitte",
+          "group": "Company"
+        },
+        {
+          "id": "5",
+          "label": "Hive Blockchain Society",
+          "group": "Community"
+        },
+        {
+          "id": "8",
+          "label": "Bitcoin, the Blockchain and Beyond",
+          "group": "Education & Books"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "label": "Pierre B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "140",
+          "label": "Roland Berger",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "label": "Pierre-Alexandre K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "223",
+      "label": "Filip H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": []
+    },
+    {
+      "id": "148",
+      "label": "Jo V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "label": "Opus Labs (Delta)",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "The best Bitcoin, ICO & cryptocurrency portfolio tracker. Everywhere.",
+        "web link": "https://getdelta.io/",
+        "contact": "hello@getdelta.io",
+        "location": "Ghent"
+      },
+      "connections": [
+        {
+          "id": "76",
+          "label": "Nicolas V. H.",
+          "group": "Individual"
+        },
+        {
+          "id": "43",
+          "label": "Toon C.",
+          "group": "Individual"
+        },
+        {
+          "id": "42",
+          "label": "Lorenz B.",
+          "group": "Individual"
+        },
+        {
+          "id": "75",
+          "label": "Nicolas V. E.",
+          "group": "Individual"
+        },
+        {
+          "id": "74",
+          "label": "Filip M.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "211",
+      "label": "Andries V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "label": "Howest",
+      "group": "University",
+      "attributes": {
+        "web link": "https://www.howest.be/nl/opleidingen/bachelor/toegepaste-informatica/blockchain-developer-and-architect-at-home"
+      },
+      "connections": [
+        {
+          "id": "131",
+          "label": "Kurt C.",
+          "group": "Individual"
+        },
+        {
+          "id": "106",
+          "label": "Jo V.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "label": "BeCrypto",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://becrypto.xyz"
+      },
+      "connections": [
+        {
+          "id": "172",
+          "label": "Kamil M.",
+          "group": "Individual"
+        },
+        {
+          "id": "171",
+          "label": "Vincent H.",
+          "group": "Individual"
+        },
+        {
+          "id": "170",
+          "label": "Philippe L.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "label": "Benoît V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "183",
+          "label": "CMS",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "label": "Quentin D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "5",
+          "label": "Hive Blockchain Society",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "248",
+      "label": "Small Teaser",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "The community blogging platform where your voice finds the audience it deserves",
+        "web link": "https://www.smallteaser.com",
+        "location": "Hasselt"
+      },
+      "connections": [
+        {
+          "id": "254",
+          "label": "Sylvester J.",
+          "group": "Individual"
+        },
+        {
+          "id": "250",
+          "label": "Mark P.",
+          "group": "Individual"
+        },
+        {
+          "id": "253",
+          "label": "Stijn J.",
+          "group": "Individual"
+        },
+        {
+          "id": "251",
+          "label": "Ruth J.",
+          "group": "Individual"
+        },
+        {
+          "id": "249",
+          "label": "Hamza O.",
+          "group": "Individual"
+        },
+        {
+          "id": "252",
+          "label": "Sasha S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "label": "Bernard L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "235",
+      "label": "Andy D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "214",
+      "label": "Karel S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "220",
+          "label": "FundRequest",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "252",
+      "label": "Sasha S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "248",
+          "label": "Small Teaser",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Blockchain Association of Belgium",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "http://www.blockchainassociation.be/"
+      },
+      "connections": [
+        {
+          "id": "78",
+          "label": "Geraud M.",
+          "group": "Individual"
+        },
+        {
+          "id": "77",
+          "label": "Anthony S.",
+          "group": "Individual"
+        },
+        {
+          "id": "13",
+          "label": "Derek R.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "label": "Nabil K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "259",
+      "label": "Cresco Law",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "one-liner description": "We are a premier business law firm serving the business and legal needs of:  entrepreneurs emerging, growth and established companies private equity investors, venture capitalists and corporate investors",
+        "web link": "http://www.crescolaw.com/",
+        "contact": "info@crescolaw.com",
+        "location": "Antwerp"
+      },
+      "connections": [
+        {
+          "id": "260",
+          "label": "Pieter C.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "label": "FSMA",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "https://www.fsma.be"
+      },
+      "connections": [
+        {
+          "id": "181",
+          "label": "Renée S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "label": "Aurélien F.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "226",
+          "label": "Fédération Wallonie-Bruxelles",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "label": "Cassandre V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "5",
+          "label": "Hive Blockchain Society",
+          "group": "Community"
+        },
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "label": "Thomas M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "222",
+      "label": "Tim J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "163",
+          "label": "Cegeka",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "label": "Nico W.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "153",
+          "label": "T-mining",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "label": "Claudiu M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "label": "Daniël S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "133",
+          "label": "Vlaamse Overheid",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "label": "Leila R.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "198",
+          "label": "NR Mine",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "label": "Gilles Q.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "141",
+          "label": "Trends",
+          "group": "Media outlet"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "label": "Steve D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "label": "European Bitcoin Trading Machine",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Buy and Sell Bitcoins with euro bank notes at our ATM in Antwerp.",
+        "web link": "http://www.ebtm.be/",
+        "location": "Antwerp"
+      },
+      "connections": []
+    },
+    {
+      "id": "95",
+      "label": "Chris D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "label": "Jens M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "118",
+          "label": "Trase",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "label": "Arnaud K.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "label": "OceanLab",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Oceanlabs is a project aimed at building simple and easy applications on top of the Waves blockchain.",
+        "web link": "https://www.oceanlab.eu/",
+        "location": "Piétrain"
+      },
+      "connections": [
+        {
+          "id": "165",
+          "label": "Fabrice D.",
+          "group": "Individual"
+        },
+        {
+          "id": "166",
+          "label": "Olivier S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "label": "Aymerick T.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "24",
+          "label": "Accenture",
+          "group": "Company"
+        },
+        {
+          "id": "5",
+          "label": "Hive Blockchain Society",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "label": "Els M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "220",
+      "label": "FundRequest",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "FundRequest introduces an easy and secure way to reward bugfixes and feature builds on any project.  FundRequest is a system for custom support that will boost the Open Source community as a whole – from developer to end user.",
+        "web link": "https://fundrequest.io/",
+        "contact": "info@fundrequest.io"
+      },
+      "connections": [
+        {
+          "id": "265",
+          "label": "Thomas M.",
+          "group": "Individual"
+        },
+        {
+          "id": "216",
+          "label": "Gerbert V.",
+          "group": "Individual"
+        },
+        {
+          "id": "218",
+          "label": "Steve M.",
+          "group": "Individual"
+        },
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        },
+        {
+          "id": "215",
+          "label": "Davy R.",
+          "group": "Individual"
+        },
+        {
+          "id": "214",
+          "label": "Karel S.",
+          "group": "Individual"
+        },
+        {
+          "id": "263",
+          "label": "Nico P.",
+          "group": "Individual"
+        },
+        {
+          "id": "217",
+          "label": "Tim D.",
+          "group": "Individual"
+        },
+        {
+          "id": "264",
+          "label": "Nico H.",
+          "group": "Individual"
+        },
+        {
+          "id": "219",
+          "label": "Quinten S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "label": "Andrew T.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "80",
+          "label": "Investereum",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "label": "Bitcoin Liège",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://www.meetup.com/fr-FR/Bitcoin-Liege/"
+      },
+      "connections": [
+        {
+          "id": "171",
+          "label": "Vincent H.",
+          "group": "Individual"
+        },
+        {
+          "id": "231",
+          "label": "Mathieu J.",
+          "group": "Individual"
+        },
+        {
+          "id": "170",
+          "label": "Philippe L.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "label": "KULeuven",
+      "group": "University",
+      "attributes": {
+        "web link": "https://www.kuleuven.be/kuleuven/"
+      },
+      "connections": [
+        {
+          "id": "128",
+          "label": "Benjamin V.",
+          "group": "Individual"
+        },
+        {
+          "id": "92",
+          "label": "Bart P.",
+          "group": "Individual"
+        },
+        {
+          "id": "149",
+          "label": "Yves M.",
+          "group": "Individual"
+        },
+        {
+          "id": "127",
+          "label": "Bram M.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "212",
+      "label": "Pàu",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://pau.be"
+      },
+      "connections": [
+        {
+          "id": "213",
+          "label": "Joris H.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "226",
+      "label": "Fédération Wallonie-Bruxelles",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "http://www.federation-wallonie-bruxelles.be/"
+      },
+      "connections": [
+        {
+          "id": "228",
+          "label": "Aurélien F.",
+          "group": "Individual"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "227",
+          "label": "Oliver S.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "label": "NR Mine",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "NRmine (Energy Blockchain Mining) develops innovative mining farms for cryptocurrencies. These mining rigs will be built in the most energy-efficient way in Israel and in Belgium. The system’s main objective is to deliver cryptocurrencies at the highest level of profitability by using solar energy.",
+        "web link": "https://www.nrmine.com/",
+        "location": "Hannut"
+      },
+      "connections": [
+        {
+          "id": "207",
+          "label": "Leila R.",
+          "group": "Individual"
+        },
+        {
+          "id": "199",
+          "label": "Stephan P.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "237",
+      "label": "Alain D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "label": "David C.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "12",
+          "label": "Hey",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "label": "Université Catholique de Louvain",
+      "group": "University",
+      "attributes": {
+        "web link": "https://uclouvain.be/fr/index.html"
+      },
+      "connections": [
+        {
+          "id": "91",
+          "label": "Jean-Jacques Q.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "label": "Rain L.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "234",
+      "label": "Logino D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "label": "Carlo W.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "34",
+          "label": "CryptoCafé",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "label": "Jennifer G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "label": "IntellectEU",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "Our core is financial integration  and middleware solutions",
+        "web link": "https://www.intellecteu.com/",
+        "contact": "info@intellecteu.com",
+        "location": "Diegem"
+      },
+      "connections": [
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "255",
+      "label": "LiskPro",
+      "group": "Non-BE pure play company",
+      "attributes": {
+        "one-liner description": "LiskPro.com : tout sur l'écosystème Lisk ...  Rejoignez la communauté !",
+        "web link": "https://www.liskpro.com/",
+        "contact": "liskpro.com@gmail.com"
+      },
+      "connections": [
+        {
+          "id": "257",
+          "label": "Benjamin X.",
+          "group": "Individual"
+        },
+        {
+          "id": "256",
+          "label": "Bastien X.",
+          "group": "Individual"
+        },
+        {
+          "id": "258",
+          "label": "Baudouin X.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "label": "David B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "88",
+          "label": "Belgian Bitcoin Association",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "label": "BigchainDB",
+      "group": "Non-BE pure play company",
+      "attributes": {
+        "web link": "https://www.bigchaindb.com/"
+      },
+      "connections": [
+        {
+          "id": "135",
+          "label": "Dimitri D. J.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "231",
+      "label": "Mathieu J.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "210",
+          "label": "Bitcoin Liège",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "label": "Filip F.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "label": "Nicolas V. E.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "38",
+          "label": "Opus Labs (Delta)",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "label": "Olivier B.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "1",
+          "label": "Stampify",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "label": "Jo V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "120",
+          "label": "Juru",
+          "group": "Pure play company"
+        },
+        {
+          "id": "86",
+          "label": "Orillia",
+          "group": "Pure play company"
+        },
+        {
+          "id": "130",
+          "label": "Howest",
+          "group": "University"
+        },
+        {
+          "id": "3",
+          "label": "KeyRock",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "label": "Vlaamse Overheid",
+      "group": "Govt or industry body",
+      "attributes": {
+        "web link": "https://www.vlaanderen.be"
+      },
+      "connections": [
+        {
+          "id": "134",
+          "label": "Daniël S.",
+          "group": "Individual"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "label": "Fabrice D.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "167",
+          "label": "OceanLab",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "label": "Vincent H.",
+      "group": "Individual",
+      "attributes": {
+        "web link": "https://www.linkedin.com/in/vincent-hdb/"
+      },
+      "connections": [
+        {
+          "id": "210",
+          "label": "Bitcoin Liège",
+          "group": "Community"
+        },
+        {
+          "id": "169",
+          "label": "BeCrypto",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "label": "Blockchain/Ethereum Brussels Meetup",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://www.meetup.com/fr-FR/Meetup-Blockchain-Ethereum-Bruxelles/"
+      },
+      "connections": [
+        {
+          "id": "114",
+          "label": "Benjamin X.",
+          "group": "Individual"
+        },
+        {
+          "id": "115",
+          "label": "Nicolas X.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "SettleMint",
+      "group": "Pure play company",
+      "attributes": {
+        "one-liner description": "We make building blockchain applications easy for IT teams",
+        "web link": "https://settlemint.com/",
+        "contact": "hello@settlemint.com",
+        "location": "Leuven"
+      },
+      "connections": [
+        {
+          "id": "59",
+          "label": "Matthew V. N.",
+          "group": "Individual"
+        },
+        {
+          "id": "70",
+          "label": "Astrid J.",
+          "group": "Individual"
+        },
+        {
+          "id": "68",
+          "label": "Veronica M.",
+          "group": "Individual"
+        },
+        {
+          "id": "64",
+          "label": "Els M.",
+          "group": "Individual"
+        },
+        {
+          "id": "63",
+          "label": "Jonathan J.",
+          "group": "Individual"
+        },
+        {
+          "id": "67",
+          "label": "Silke V.d.B.",
+          "group": "Individual"
+        },
+        {
+          "id": "71",
+          "label": "Rutger B.",
+          "group": "Individual"
+        },
+        {
+          "id": "62",
+          "label": "Roderik v.d.V.",
+          "group": "Individual"
+        },
+        {
+          "id": "16",
+          "label": "Cassandre V.",
+          "group": "Individual"
+        },
+        {
+          "id": "7",
+          "label": "DatabrokerDAO",
+          "group": "Pure play company"
+        },
+        {
+          "id": "229",
+          "label": "B-Hive",
+          "group": "Govt or industry body"
+        },
+        {
+          "id": "66",
+          "label": "Frank G.",
+          "group": "Individual"
+        },
+        {
+          "id": "69",
+          "label": "Magomet T.",
+          "group": "Individual"
+        },
+        {
+          "id": "72",
+          "label": "Charles d. B.",
+          "group": "Individual"
+        },
+        {
+          "id": "65",
+          "label": "Tom B.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "label": "Karsten F.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        },
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "label": "Didier G.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "183",
+          "label": "CMS",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "label": "IBM",
+      "group": "Company",
+      "attributes": {
+        "web link": "https://www.ibm.com/be-en/"
+      },
+      "connections": [
+        {
+          "id": "110",
+          "label": "Arnaud L. H.",
+          "group": "Individual"
+        },
+        {
+          "id": "162",
+          "label": "Hyperledger",
+          "group": "Open-source project"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "label": "White & Case LLP",
+      "group": "Professional services & advisors",
+      "attributes": {
+        "web link": "https://www.whitecase.com"
+      },
+      "connections": [
+        {
+          "id": "177",
+          "label": "Willem V.d.W.",
+          "group": "Individual"
+        },
+        {
+          "id": "7",
+          "label": "DatabrokerDAO",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "243",
+      "label": "Hadrian M.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "232",
+          "label": "Safe Haven",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "label": "Nikita S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "186",
+          "label": "Sofitto",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "label": "Thibault V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "176",
+          "label": "DS Avocats",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "label": "Dirk N.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "163",
+          "label": "Cegeka",
+          "group": "Company"
+        }
+      ]
+    },
+    {
+      "id": "227",
+      "label": "Oliver S.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "226",
+          "label": "Fédération Wallonie-Bruxelles",
+          "group": "Govt or industry body"
+        }
+      ]
+    },
+    {
+      "id": "244",
+      "label": "Unimining",
+      "group": "Open-source project",
+      "attributes": {
+        "web link": "https://unimining.net/"
+      },
+      "connections": [
+        {
+          "id": "245",
+          "label": "Pierre-Henri M.",
+          "group": "Individual"
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "label": "Pascal V.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "153",
+          "label": "T-mining",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "label": "Magomet T.",
+      "group": "Individual",
+      "attributes": {
+        "web link": ""
+      },
+      "connections": [
+        {
+          "id": "2",
+          "label": "SettleMint",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "label": "Philippe H.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "157",
+          "label": "Laga",
+          "group": "Professional services & advisors"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "label": "Jeroen D. P.",
+      "group": "Individual",
+      "attributes": {},
+      "connections": [
+        {
+          "id": "37",
+          "label": "Blockchain Belgium",
+          "group": "Community"
+        },
+        {
+          "id": "21",
+          "label": "TheLedger",
+          "group": "Pure play company"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "label": "CryptoCafé",
+      "group": "Community",
+      "attributes": {
+        "web link": "https://digityser.org/"
+      },
+      "connections": [
+        {
+          "id": "196",
+          "label": "Digityser",
+          "group": "Community"
+        },
+        {
+          "id": "35",
+          "label": "Ricardo X.",
+          "group": "Individual"
+        },
+        {
+          "id": "36",
+          "label": "Carlo W.",
+          "group": "Individual"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "98",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "65",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "202",
+      "target": "200",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "236",
+      "value": 1
+    },
+    {
+      "source": "97",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "173",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "122",
+      "target": "120",
+      "value": 1
+    },
+    {
+      "source": "266",
+      "target": "268",
+      "value": 1
+    },
+    {
+      "source": "58",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "180",
+      "target": "157",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "252",
+      "value": 1
+    },
+    {
+      "source": "38",
+      "target": "74",
+      "value": 1
+    },
+    {
+      "source": "129",
+      "target": "24",
+      "value": 1
+    },
+    {
+      "source": "219",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "153",
+      "target": "225",
+      "value": 1
+    },
+    {
+      "source": "4",
+      "target": "13",
+      "value": 1
+    },
+    {
+      "source": "20",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "220",
+      "target": "264",
+      "value": 1
+    },
+    {
+      "source": "44",
+      "target": "39",
+      "value": 1
+    },
+    {
+      "source": "145",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "75",
+      "target": "38",
+      "value": 1
+    },
+    {
+      "source": "21",
+      "target": "45",
+      "value": 1
+    },
+    {
+      "source": "217",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "220",
+      "target": "263",
+      "value": 1
+    },
+    {
+      "source": "262",
+      "target": "261",
+      "value": 1
+    },
+    {
+      "source": "8",
+      "target": "14",
+      "value": 1
+    },
+    {
+      "source": "14",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "27",
+      "target": "1",
+      "value": 1
+    },
+    {
+      "source": "61",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "80",
+      "target": "81",
+      "value": 1
+    },
+    {
+      "source": "96",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "160",
+      "target": "39",
+      "value": 1
+    },
+    {
+      "source": "214",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "86",
+      "value": 1
+    },
+    {
+      "source": "37",
+      "target": "45",
+      "value": 1
+    },
+    {
+      "source": "111",
+      "target": "109",
+      "value": 1
+    },
+    {
+      "source": "108",
+      "target": "107",
+      "value": 1
+    },
+    {
+      "source": "174",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "159",
+      "target": "39",
+      "value": 1
+    },
+    {
+      "source": "119",
+      "target": "118",
+      "value": 1
+    },
+    {
+      "source": "121",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "205",
+      "target": "206",
+      "value": 1
+    },
+    {
+      "source": "245",
+      "target": "244",
+      "value": 1
+    },
+    {
+      "source": "1",
+      "target": "30",
+      "value": 1
+    },
+    {
+      "source": "125",
+      "target": "118",
+      "value": 1
+    },
+    {
+      "source": "148",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "129",
+      "target": "41",
+      "value": 1
+    },
+    {
+      "source": "147",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "57",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "249",
+      "value": 1
+    },
+    {
+      "source": "188",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "204",
+      "target": "203",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "235",
+      "value": 1
+    },
+    {
+      "source": "187",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "36",
+      "target": "34",
+      "value": 1
+    },
+    {
+      "source": "72",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "242",
+      "value": 1
+    },
+    {
+      "source": "181",
+      "target": "156",
+      "value": 1
+    },
+    {
+      "source": "153",
+      "target": "224",
+      "value": 1
+    },
+    {
+      "source": "194",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "132",
+      "target": "129",
+      "value": 1
+    },
+    {
+      "source": "53",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "99",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "69",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "215",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "110",
+      "target": "162",
+      "value": 1
+    },
+    {
+      "source": "47",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "100",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "163",
+      "target": "164",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "246",
+      "value": 1
+    },
+    {
+      "source": "0",
+      "target": "261",
+      "value": 1
+    },
+    {
+      "source": "17",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "190",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "211",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "1",
+      "target": "32",
+      "value": 1
+    },
+    {
+      "source": "48",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "220",
+      "target": "232",
+      "value": 1
+    },
+    {
+      "source": "170",
+      "target": "169",
+      "value": 1
+    },
+    {
+      "source": "178",
+      "target": "7",
+      "value": 1
+    },
+    {
+      "source": "196",
+      "target": "197",
+      "value": 1
+    },
+    {
+      "source": "196",
+      "target": "221",
+      "value": 1
+    },
+    {
+      "source": "199",
+      "target": "198",
+      "value": 1
+    },
+    {
+      "source": "37",
+      "target": "22",
+      "value": 1
+    },
+    {
+      "source": "154",
+      "target": "153",
+      "value": 1
+    },
+    {
+      "source": "195",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "251",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "253",
+      "value": 1
+    },
+    {
+      "source": "66",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "95",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "101",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "120",
+      "target": "41",
+      "value": 1
+    },
+    {
+      "source": "146",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "12",
+      "target": "52",
+      "value": 1
+    },
+    {
+      "source": "97",
+      "target": "137",
+      "value": 1
+    },
+    {
+      "source": "210",
+      "target": "170",
+      "value": 1
+    },
+    {
+      "source": "168",
+      "target": "157",
+      "value": 1
+    },
+    {
+      "source": "166",
+      "target": "167",
+      "value": 1
+    },
+    {
+      "source": "218",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "250",
+      "value": 1
+    },
+    {
+      "source": "178",
+      "target": "177",
+      "value": 1
+    },
+    {
+      "source": "54",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "1",
+      "target": "29",
+      "value": 1
+    },
+    {
+      "source": "226",
+      "target": "227",
+      "value": 1
+    },
+    {
+      "source": "136",
+      "target": "135",
+      "value": 1
+    },
+    {
+      "source": "106",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "4",
+      "target": "77",
+      "value": 1
+    },
+    {
+      "source": "98",
+      "target": "86",
+      "value": 1
+    },
+    {
+      "source": "37",
+      "target": "116",
+      "value": 1
+    },
+    {
+      "source": "11",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "106",
+      "target": "130",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "126",
+      "target": "118",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "233",
+      "value": 1
+    },
+    {
+      "source": "115",
+      "target": "113",
+      "value": 1
+    },
+    {
+      "source": "231",
+      "target": "210",
+      "value": 1
+    },
+    {
+      "source": "121",
+      "target": "120",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "237",
+      "value": 1
+    },
+    {
+      "source": "26",
+      "target": "6",
+      "value": 1
+    },
+    {
+      "source": "151",
+      "target": "150",
+      "value": 1
+    },
+    {
+      "source": "10",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "207",
+      "target": "198",
+      "value": 1
+    },
+    {
+      "source": "148",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "7",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "16",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "201",
+      "target": "200",
+      "value": 1
+    },
+    {
+      "source": "42",
+      "target": "38",
+      "value": 1
+    },
+    {
+      "source": "130",
+      "target": "131",
+      "value": 1
+    },
+    {
+      "source": "117",
+      "target": "9",
+      "value": 1
+    },
+    {
+      "source": "145",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "12",
+      "target": "15",
+      "value": 1
+    },
+    {
+      "source": "266",
+      "target": "269",
+      "value": 1
+    },
+    {
+      "source": "124",
+      "target": "118",
+      "value": 1
+    },
+    {
+      "source": "4",
+      "target": "78",
+      "value": 1
+    },
+    {
+      "source": "158",
+      "target": "157",
+      "value": 1
+    },
+    {
+      "source": "191",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "255",
+      "target": "258",
+      "value": 1
+    },
+    {
+      "source": "146",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "240",
+      "value": 1
+    },
+    {
+      "source": "203",
+      "target": "1",
+      "value": 1
+    },
+    {
+      "source": "17",
+      "target": "24",
+      "value": 1
+    },
+    {
+      "source": "12",
+      "target": "51",
+      "value": 1
+    },
+    {
+      "source": "165",
+      "target": "167",
+      "value": 1
+    },
+    {
+      "source": "102",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "127",
+      "target": "93",
+      "value": 1
+    },
+    {
+      "source": "23",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "141",
+      "target": "142",
+      "value": 1
+    },
+    {
+      "source": "171",
+      "target": "169",
+      "value": 1
+    },
+    {
+      "source": "79",
+      "target": "14",
+      "value": 1
+    },
+    {
+      "source": "37",
+      "target": "23",
+      "value": 1
+    },
+    {
+      "source": "103",
+      "target": "97",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "85",
+      "value": 1
+    },
+    {
+      "source": "12",
+      "target": "50",
+      "value": 1
+    },
+    {
+      "source": "163",
+      "target": "222",
+      "value": 1
+    },
+    {
+      "source": "259",
+      "target": "260",
+      "value": 1
+    },
+    {
+      "source": "31",
+      "target": "1",
+      "value": 1
+    },
+    {
+      "source": "155",
+      "target": "153",
+      "value": 1
+    },
+    {
+      "source": "182",
+      "target": "23",
+      "value": 1
+    },
+    {
+      "source": "55",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "62",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "161",
+      "target": "162",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "234",
+      "value": 1
+    },
+    {
+      "source": "1",
+      "target": "33",
+      "value": 1
+    },
+    {
+      "source": "152",
+      "target": "85",
+      "value": 1
+    },
+    {
+      "source": "123",
+      "target": "120",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "239",
+      "value": 1
+    },
+    {
+      "source": "172",
+      "target": "169",
+      "value": 1
+    },
+    {
+      "source": "184",
+      "target": "183",
+      "value": 1
+    },
+    {
+      "source": "133",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "149",
+      "target": "93",
+      "value": 1
+    },
+    {
+      "source": "12",
+      "target": "49",
+      "value": 1
+    },
+    {
+      "source": "143",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "144",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "60",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "134",
+      "target": "133",
+      "value": 1
+    },
+    {
+      "source": "25",
+      "target": "6",
+      "value": 1
+    },
+    {
+      "source": "213",
+      "target": "212",
+      "value": 1
+    },
+    {
+      "source": "18",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "43",
+      "target": "38",
+      "value": 1
+    },
+    {
+      "source": "28",
+      "target": "1",
+      "value": 1
+    },
+    {
+      "source": "216",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "80",
+      "target": "82",
+      "value": 1
+    },
+    {
+      "source": "89",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "241",
+      "value": 1
+    },
+    {
+      "source": "210",
+      "target": "171",
+      "value": 1
+    },
+    {
+      "source": "266",
+      "target": "267",
+      "value": 1
+    },
+    {
+      "source": "248",
+      "target": "254",
+      "value": 1
+    },
+    {
+      "source": "176",
+      "target": "175",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "238",
+      "value": 1
+    },
+    {
+      "source": "71",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "90",
+      "target": "88",
+      "value": 1
+    },
+    {
+      "source": "226",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "179",
+      "target": "157",
+      "value": 1
+    },
+    {
+      "source": "140",
+      "target": "138",
+      "value": 1
+    },
+    {
+      "source": "105",
+      "target": "86",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "94",
+      "value": 1
+    },
+    {
+      "source": "147",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "46",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "143",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "193",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "112",
+      "target": "109",
+      "value": 1
+    },
+    {
+      "source": "91",
+      "target": "40",
+      "value": 1
+    },
+    {
+      "source": "114",
+      "target": "113",
+      "value": 1
+    },
+    {
+      "source": "104",
+      "target": "86",
+      "value": 1
+    },
+    {
+      "source": "80",
+      "target": "83",
+      "value": 1
+    },
+    {
+      "source": "67",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "63",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "64",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "226",
+      "target": "228",
+      "value": 1
+    },
+    {
+      "source": "16",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "189",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "220",
+      "target": "265",
+      "value": 1
+    },
+    {
+      "source": "10",
+      "target": "0",
+      "value": 1
+    },
+    {
+      "source": "19",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "255",
+      "target": "256",
+      "value": 1
+    },
+    {
+      "source": "22",
+      "target": "21",
+      "value": 1
+    },
+    {
+      "source": "56",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "229",
+      "target": "247",
+      "value": 1
+    },
+    {
+      "source": "255",
+      "target": "257",
+      "value": 1
+    },
+    {
+      "source": "230",
+      "target": "229",
+      "value": 1
+    },
+    {
+      "source": "144",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "68",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "92",
+      "target": "93",
+      "value": 1
+    },
+    {
+      "source": "128",
+      "target": "93",
+      "value": 1
+    },
+    {
+      "source": "38",
+      "target": "76",
+      "value": 1
+    },
+    {
+      "source": "140",
+      "target": "139",
+      "value": 1
+    },
+    {
+      "source": "35",
+      "target": "34",
+      "value": 1
+    },
+    {
+      "source": "70",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "185",
+      "target": "183",
+      "value": 1
+    },
+    {
+      "source": "106",
+      "target": "86",
+      "value": 1
+    },
+    {
+      "source": "110",
+      "target": "161",
+      "value": 1
+    },
+    {
+      "source": "59",
+      "target": "2",
+      "value": 1
+    },
+    {
+      "source": "21",
+      "target": "116",
+      "value": 1
+    },
+    {
+      "source": "232",
+      "target": "243",
+      "value": 1
+    },
+    {
+      "source": "192",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "106",
+      "target": "120",
+      "value": 1
+    },
+    {
+      "source": "196",
+      "target": "34",
+      "value": 1
+    },
+    {
+      "source": "110",
+      "target": "109",
+      "value": 1
+    }
+  ]
+}

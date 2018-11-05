@@ -1,0 +1,11 @@
+div.legend_color {
+  height: 12px;
+  width: 12px;
+  border-radius: 6px;
+}
+
+span.legend_label {
+  padding: 4px;
+  margin-right: 4px;
+  font-size: 12px;
+}
